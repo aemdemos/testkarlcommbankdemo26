@@ -104,7 +104,7 @@
               ],
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "columns",
-              "customBlockName": ""
+              "customBlockName": "CreditCards"
             },
             {
               "id": "box-id--1511539938",
@@ -133,7 +133,7 @@
               ],
               "color": "rgba(75, 0, 130, 0.3)",
               "mapping": "columns",
-              "customBlockName": ""
+              "customBlockName": "CreditCards"
             },
             {
               "id": "box-id--886671426",
@@ -301,7 +301,13 @@
               "color": "rgba(75, 0, 130, 0.2)",
               "mapping": "columns",
               "customBlockName": ""
-            },
+            }
+          ],
+          "settings": {}
+        },
+        {
+          "id": "2-2",
+          "blocks": [
             {
               "id": "box-id--370075646",
               "x": 152,
@@ -328,7 +334,9 @@
               "customBlockName": ""
             }
           ],
-          "settings": {}
+          "settings": {
+            "section-metadata-style": "pink"
+          }
         }
       ]
     },
